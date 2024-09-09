@@ -1,0 +1,9 @@
+{
+	"name": "DriporDrown",
+	"version_number": "1.0",
+	"description": "A skin pack with 3 Universal Themes, 2 Partial themes, and some extras.",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.34",
+		"Groove_Salad-UnderYourSkin-1.0.0"
+	]
+}
