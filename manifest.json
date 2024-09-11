@@ -1,8 +1,8 @@
 {
 	"name": "DriporDrown",
-	"version_number": "1.0",
+	"version_number": "1.1.0",
 	"website_url": "https://github.com/Jingo139/DriporDrown_RoRRe",
-	"description": "A skin pack with 3 Universal Themes, 2 Partial themes, and some extras.",
+	"description": "A skin pack with 3 Universal Themes, 3 Partial themes, and some extras.",
 	"dependencies": [
 		"ReturnOfModding-ReturnOfModding-1.0.34",
 		"Groove_Salad-UnderYourSkin-1.0.0"
